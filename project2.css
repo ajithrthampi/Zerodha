@@ -1,0 +1,432 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+
+
+body{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:200vh;
+}
+.container{
+    width:100%;
+    height:500vh;
+    background-color: white;
+
+}
+
+.header{
+
+    top:0;
+    width:100%;
+    position:fixed;
+    background-color: white;
+    height:67px;
+    z-index: 999;
+}
+.header-inside1{
+    
+    width: 1100px;
+    height: 67px;
+    background-color: white;
+    margin-left: 207px;
+}
+.header-right{
+    padding-top: 24px;
+    height: 43px;
+   
+    background-color:white;
+    width: 434px;
+    
+}
+.image-1{
+    font-size: 25px;
+    width: 130px;
+}
+
+.header-1{
+    color: rgb(147, 147, 173);
+    
+
+}
+.header-1:hover{
+    color: blue;
+}
+
+
+
+.left{
+    display: flex;
+    list-style-type: none;
+    margin-top: -41px;
+    padding-left: 620px;
+    gap: 46px;
+   
+
+}
+ .main-1{
+     width:100%;
+     height:650px;
+     background-color:white;
+ }   
+.logo-1{
+    margin-left: -70px;
+    padding-top: 94px;
+    text-align: center;
+}
+
+ .image-2{
+    margin-bottom: 60px;
+    height: 40vh;
+    
+    padding-left: 58px;
+ }
+ .para-1{
+    text-align: center;
+
+ }
+ h1{
+    font-size: 2.75rem;
+    line-height: 1.25;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-weight: 600;
+    margin-top: -27px;
+ }
+
+ .para-2{
+    text-align: center;
+ }
+ h5{
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10px;
+    margin-left: -20px;
+ }
+ .submit{
+    border: 10px solid transparent;
+    background-color: #387ed1;
+    color: #fff;
+    font-size: larger;
+    
+    
+ }
+ .submit:hover{
+     background-color: black;
+     
+
+ }.sign-allign{
+    text-align: center;
+    
+
+ }
+ .main-2{
+     width:100%;
+     height:500px;
+     background-color: white;
+
+ }
+ .flex{
+     display: flex;
+ }
+ 
+ .column-1{ 
+    margin-bottom: 60px;
+    height: 42vh;
+    padding-left: 51px;
+    margin-left: 186px;
+    text-align: center;
+
+     
+ }
+ .inner-row{
+     display: flex;
+     
+ }
+ .column-2{
+    padding-left: 110px;
+    font-family: "Inter", serif;
+    font-size: 16px;
+    width: 100%;
+    line-height: 1.7;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+
+ }
+
+
+.list-1{
+    width: 172px;
+    padding-left: 10px;
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.list-2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+p{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+   
+    font-size: initial; 
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Flex', sans-serif;
+font-size: 37px
+    
+
+}.image-size{
+    margin-bottom: 364px;
+    width: 462px;
+    height: 34px;
+    padding-left: -10px;
+    margin-top: -415px;
+}
+
+.inner-column-1{
+    width: 400px;
+    
+    padding-right: 10px;
+}
+.inner-column-2{
+    width: 100%;
+    height: 500px;
+    
+}
+.main-3{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+}
+
+
+
+.large-1{
+    height:730px;
+
+    
+    background-color: whit;
+}
+.inner-div{
+    position: relative;
+    width: 1100px;
+    max-width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.para-main-3{
+    color: blue;
+    padding-left: 698px;
+
+}
+.para-main-3:hover{
+    color: black;
+}
+.inner-div{
+    padding-left: 350px;
+}
+
+.main-3-image{
+    margin-left: -381px;
+    
+}
+
+.h2-1{
+    padding-left: 32px
+}
+.main-4{
+    display: flex;
+    width: 100%;
+    height:200px;
+    background-color: white;
+    justify-content: center;
+}
+
+.inner-main-4{
+    width: 75%;
+    height:200px;
+    display: flex;
+    
+    background-color: white;
+}
+.para-main-4{
+    color: blue;
+
+}
+.para-main-4:hover{
+    color:black;
+}
+
+.inner-column{
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    background-color: blue;
+    
+}
+.flex-div-main-4{
+    display: flex;
+    
+
+}.main-4-column-2{
+    display: flex;
+    border: 2px;
+    border-width: 3px;
+    border-color: black;
+  
+
+}
+
+.main-4-column-1{
+    padding-left: 55px;
+}
+
+.inner-column-1-main-4{
+    padding-left: 113px;
+    padding-top: 59px;
+
+}
+.inner-column-2-main-4{
+    padding-left: 62px;
+    padding-top: 60px;
+
+}
+.image-main-5{
+    height: 42vh;
+    padding-left: 215px;
+    margin-top: 114px;
+    
+
+}
+.main-5{
+    background-color: white;
+    width:100%;
+    height:500px
+    
+
+}.inner-main-5{
+    display: flex;
+}
+.main-5-column-1{
+
+}
+.hi{
+    padding-top: 143px;
+    padding-left: 143px;
+
+}
+
+#h4-main-5{
+    
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 27px;
+
+}
+.para-main-5{
+    color: blue;
+}
+
+
+
+.para-main-5:hover{
+    color: black;
+
+}
+.para-main-5-1{
+color: blue;
+}
+.para-main-5-1:hover{
+    color: black;
+}
+.main-6{
+    width:100%;
+    height:300px;
+    background-color: white;
+}
+.inner-main-6{
+    width: 905px;
+    margin-left: 295px;
+    height: 300px;
+    background-color: white;
+}
+
+.main-6-hh{
+    text-align: center;
+
+}
+
+.text-allign{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.main-6-p{
+    text-align: center;
+
+}
+.submit-1{
+    border: 10px solid transparent;
+    background-color: #387ed1;
+    color: #fff;
+    font-size: larger;
+}
+.submit-1:hover{
+    background-color:black;
+}
+.footer{
+    width:100%;
+    height:384px;
+    background-color:white;
+
+
+}
+.inner-footer{
+    height: 384px;
+    width:80%;
+    padding-left: 100px;
+    display:flex;
+    background-color: white;
+    margin-left: 139px
+    
+}
+.footer-image-1{
+    height: 21px;
+    width: 143px;
+
+
+}
+
+
+.list-style{
+list-style-type: none;
+line-height: 2;
+line-height: 2;
+}
+.nav-head{
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin-bottom: 10px
+}
+.footer-2{
+    margin-left: 138px;
+    width: 82%;
+    height: 450px;
+    background-color: white;
+
+}
+.para-footer{
+    font-size: small;
+    color: #9b9b9b;
+
+}
+.footer-colums-2{
+    padding-left: 62px;
+}
+.list-style{
+    padding-left: 107px;
+}
+
+
